@@ -1,3 +1,14 @@
+<div align="center">
+
+  <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="200" height="auto" />
+  <h1>Echo_Snipe</h1>
+   
+  <p>
+   A console based game
+  </p>
+
+
+
 # Echo_Snipe/description /~
   i have created a old school game console with a Echo_Snipe game. it is a interesting game with ps2 joystick functionality.
  i know u haven't played it yet cause i have launched this now in year 2025.
