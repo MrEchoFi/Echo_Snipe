@@ -13,6 +13,7 @@
   i have created a old school game console with a Echo_Snipe game. it is a interesting game with ps2 joystick functionality.
  i know u haven't played it yet cause i have launched this now in year 2025.
  ~Note: the source code is arduino ide compatible
+ - 📫 How to reach me **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 # Game Videos~
 
 https://github.com/user-attachments/assets/8b393e3a-9184-40ee-b855-8e198ec12127
