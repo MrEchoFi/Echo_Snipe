@@ -13,6 +13,8 @@
   i have created a old school game console with a Echo_Snipe game. it is a interesting game with ps2 joystick functionality.
  i know u haven't played it yet cause i have launched this now in year 2025.
  ~Note: the source code is arduino ide compatible
+
+ # Site: https://echo-fi-portfolio-node-js.vercel.app/
  - 📫 How to reach me **https://tanjib-portfolio-website.vercel.app/**, **http://mrechofi.github.io/Tanjib_portfolio_website/** &
  **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 # Game Videos~
